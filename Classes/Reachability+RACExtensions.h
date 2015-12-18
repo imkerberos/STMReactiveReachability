@@ -6,8 +6,8 @@
 //
 //
 
-#import "Reachability.h"
-#import <ReactiveCocoa.h>
+#import <Reachability/Reachability.h>
+#import <ReactiveCocoa/ReactiveCocoa.h>
 
 @interface Reachability (RACExtensions)
 

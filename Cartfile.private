@@ -1,0 +1,2 @@
+github "tonymillion/Reachability" "master"
+github "ReactiveCocoa/ReactiveCocoa" ~> 2.5
