@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		3FDD93211C240A5D00B6755E /* RACReachability.h in Headers */ = {isa = PBXBuildFile; fileRef = 3FDD93201C240A5D00B6755E /* RACReachability.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3FDD932A1C240AD200B6755E /* Reachability.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FDD93291C240AD200B6755E /* Reachability.framework */; };
-		3FDD932D1C240AE600B6755E /* Reachability+RACExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 3FDD932B1C240AE600B6755E /* Reachability+RACExtensions.h */; };
+		3FDD932D1C240AE600B6755E /* Reachability+RACExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 3FDD932B1C240AE600B6755E /* Reachability+RACExtensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3FDD932E1C240AE600B6755E /* Reachability+RACExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD932C1C240AE600B6755E /* Reachability+RACExtensions.m */; };
 		3FDD93301C240BDF00B6755E /* ReactiveCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FDD932F1C240BDF00B6755E /* ReactiveCocoa.framework */; };
 /* End PBXBuildFile section */
